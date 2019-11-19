@@ -21,16 +21,21 @@ const std::string BRIT = "BRIT";
 const std::string AMERICAN_PHRASE_1 = "Yall from round here?";
 const std::string AMERICAN_PHRASE_2 = "Why yes, I would like to supersize that";
 const std::string AMERICAN_PHRASE_3 = "Im off to the beach for a one day va-cay";
-const std::string AMERICAN_PHRASE_4 = "The mets are gonna take the pennant this year";
+const std::string AMERICAN_PHRASE_4 =
+		"The mets are gonna take the pennant this year";
 const std::string AMERICAN_PHRASE_5 = "I cant see that happening this year";
 
 //american donut enthusiest phrases
 const std::string AMERICAN_DE_PHRASE_1 = "Krispy Kreme is the bees knees!";
-const std::string AMERICAN_DE_PHRASE_2 = "Dunkin Donuts is a horrendous, disappointing compromise";
-const std::string AMERICAN_DE_PHRASE_3 = "...Jelly..donuts..are..an..abomination...";
-const std::string AMERICAN_DE_PHRASE_4 = "If \'Hot Donuts Now\' is lit, I\'m stopping";
-const std::string AMERICAN_DE_PHRASE_5 = "I\'m thinking a dozen hots, you want anything?";
-	
+const std::string AMERICAN_DE_PHRASE_2 =
+		"Dunkin Donuts is a horrendous, disappointing compromise";
+const std::string AMERICAN_DE_PHRASE_3 =
+		"...Jelly..donuts..are..an..abomination...";
+const std::string AMERICAN_DE_PHRASE_4 =
+		"If \'Hot Donuts Now\' is lit, I\'m stopping";
+const std::string AMERICAN_DE_PHRASE_5 =
+		"I\'m thinking a dozen hots, you want anything?";
+
 //british phrases
 const std::string BRIT_1 = "Those chips gave me the collywobbles";
 const std::string BRIT_2 = "Im a bit knackered mate";
